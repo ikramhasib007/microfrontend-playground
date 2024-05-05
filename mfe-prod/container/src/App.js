@@ -24,7 +24,7 @@ export default function App() {
       history.push("/dashboard")
     }
 
-  }, [])
+  }, [isSignedIn])
 
   return (
     <Router history={history}>

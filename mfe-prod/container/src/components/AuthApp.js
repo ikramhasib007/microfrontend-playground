@@ -15,6 +15,9 @@ export default function AuthApp() {
         if (pathname !== nextPathname) {
           history.push(nextPathname)
         }
+      },
+      onSignIn: () => {
+        console.log('Container listening...!');
       }
     })
 

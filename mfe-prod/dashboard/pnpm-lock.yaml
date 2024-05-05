@@ -33,9 +33,6 @@ importers:
       '@babel/preset-env':
         specifier: ^7.12.1
         version: 7.24.5(@babel/core@7.24.5)
-      '@babel/runtime':
-        specifier: ^7.24.5
-        version: 7.24.5
       '@vue/compiler-sfc':
         specifier: ^3.0.2
         version: 3.4.26

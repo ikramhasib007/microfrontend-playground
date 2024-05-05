@@ -36,6 +36,9 @@ importers:
       '@babel/preset-react':
         specifier: ^7.12.1
         version: 7.24.1(@babel/core@7.24.5)
+      '@babel/runtime':
+        specifier: ^7.24.5
+        version: 7.24.5
       '@types/react-router-dom':
         specifier: ^5.3.3
         version: 5.3.3
